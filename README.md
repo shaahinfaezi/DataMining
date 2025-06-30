@@ -2,7 +2,6 @@
 
 ## Features
 
-- Features
 
 Phase 1: Dataset Exploration and Preprocessing
 
