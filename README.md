@@ -1,5 +1,11 @@
 # Data Mining Course Project - Movie Dataset Analysis
 
+## Overview
+
+This repository contains the implementation of a two-phase data mining project for the Data Mining course (Spring 1403, Persian Calendar). The project focuses on analyzing a movie dataset to uncover patterns and insights using clustering and classification techniques. Phase 1 involves exploratory data analysis and preprocessing, while Phase 2 focuses on clustering and classification tasks to identify patterns in movie attributes such as genres, revenue, production companies, and spoken languages.
+
+The project is implemented in Python, utilizing libraries such as Pandas, NumPy, Scikit-learn, and NLTK for data processing, clustering, classification, and visualization. The goal is to analyze movie success factors, identify trends, and build predictive models.
+
 ## Features
 
 
@@ -98,8 +104,4 @@ Classification:
 
 
 - Visualization: Used charts and visualizations to represent clustering patterns and classification results.
-## Overview
 
-This repository contains the implementation of a two-phase data mining project for the Data Mining course (Spring 1403, Persian Calendar). The project focuses on analyzing a movie dataset to uncover patterns and insights using clustering and classification techniques. Phase 1 involves exploratory data analysis and preprocessing, while Phase 2 focuses on clustering and classification tasks to identify patterns in movie attributes such as genres, revenue, production companies, and spoken languages.
-
-The project is implemented in Python, utilizing libraries such as Pandas, NumPy, Scikit-learn, and NLTK for data processing, clustering, classification, and visualization. The goal is to analyze movie success factors, identify trends, and build predictive models.
