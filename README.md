@@ -99,7 +99,7 @@ Classification:
 
 
 
-- Built and evaluated classification models (specific algorithms not detailed in the provided documents, but typically include models like Decision Trees, SVM, or Random Forest in such projects).
+- Built and evaluated classification models (models like Decision Trees, SVM, or Random Forest).
 
 
 
