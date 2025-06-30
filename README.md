@@ -3,7 +3,7 @@
 ## Features
 
 
-Phase 1: Dataset Exploration and Preprocessing
+### Phase 1: Dataset Exploration and Preprocessing
 
 
 
@@ -47,7 +47,7 @@ Phase 1: Dataset Exploration and Preprocessing
 
 - Missing Data Handling: Imputed missing values using methods like mean, median, or regression.
 
-Phase 2: Clustering and Classification
+### Phase 2: Clustering and Classification
 
 
 
@@ -89,7 +89,7 @@ Classification:
 
 
 
--Split data into training and test sets for model evaluation.
+- Split data into training and test sets for model evaluation.
 
 
 
